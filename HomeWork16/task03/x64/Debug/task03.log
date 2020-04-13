@@ -1,7 +1,0 @@
-﻿  main.cpp
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl ShowAllTeachers(struct Teacher const *,unsigned __int64)" (?ShowAllTeachers@@YAXPEBUTeacher@@_K@Z) в функции main
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl ShowTeacherByCreators(struct Teacher const *,unsigned __int64)" (?ShowTeacherByCreators@@YAXPEBUTeacher@@_K@Z) в функции main
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl ShowTeacherByStyle(struct Teacher const *,unsigned __int64)" (?ShowTeacherByStyle@@YAXPEBUTeacher@@_K@Z) в функции main
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl ShowTeacherInDiap(struct Teacher const *,unsigned __int64)" (?ShowTeacherInDiap@@YAXPEBUTeacher@@_K@Z) в функции main
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct Teacher * __cdecl DeleteTeacher(struct Teacher *,unsigned __int64 &)" (?DeleteTeacher@@YAPEAUTeacher@@PEAU1@AEA_K@Z) в функции main
-C:\Users\Vasua\Desktop\HomeWork16\x64\Debug\task03.exe : fatal error LNK1120: неразрешенных внешних элементов: 5
